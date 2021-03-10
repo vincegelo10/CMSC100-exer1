@@ -1,0 +1,45 @@
+h2 {
+    text-align: center;
+    font-family:arial;
+    color:white;
+}
+
+
+div {
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+    font-family:arial;
+    color:white;
+    text-align:center;
+    width:40%;
+    margin:auto;
+}
+fieldset{
+  display:inline-block;
+
+}
+.hrsize{
+  width:600px;
+}
+img {
+  width:250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  margin:auto;
+}
+
+body {
+    border-style: solid;
+    border-width: 10px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: white;
+    background-repeat: no-repeat;
+   background-position: center;
+   background-size:cover;
+   background-image: url("bg.jpg")
+
+}
